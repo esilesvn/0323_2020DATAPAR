@@ -25,4 +25,4 @@ Can we predict, with several informations on a song, if it will be a Hit or not 
 ## Links
 
 [Repository](https://github.com/esilesvn/0323_2020DATAPAR/Projects/Popular_Songs_Predict/)  
-[Slides](https://docs.google.com/presentation/d/1OPCoAW2VUUippXguzWnEXhU0CuGboM1T3dwRS1aXGwA/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1OPCoAW2VUUippXguzWnEXhU0CuGboM1T3dwRS1aXGwA/edit?usp=sharing/)
