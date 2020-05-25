@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Popular Songs Predict
+# Popular Songs Prediction
 Elise
 
 *Data Analytics Bootcamp, Paris, March 2020*
