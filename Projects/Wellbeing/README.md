@@ -11,10 +11,10 @@ Elise
 - [Links](#links)
 
 ## Project Description
-Can we predict the level of stress of a person based on the informations on his lifestyle, his achievement, the way he perceive his professional & personal life?
-This project is based on responses to an online survey ("Work-Life Balance") which aim to answer the question "How much to your thrive in your professional & personal life?".
-Mainly on a personal development side, it could give us some overview of patterns in lifestyle and daily stress ? Does a person eating his veggies, practicing sports, meditating has a lower daily stress ?
-By going through supervised and unsupervised learning methods, we try to find some ideas and answers through the big amount of informations we have here...
+Can we predict the level of stress of a person based on the informations on his lifestyle, his achievement, the way he perceives his professional & personal life?
+This project is based on responses to an online survey ("Work-Life Balance") which aims to answer the question "How much do you thrive in your professional & personal life?".
+Mainly on a personal development side, it could give us some overview of patterns in lifestyle and daily stress. 
+By going through supervised and unsupervised learning methods, we try to find some ideas and answers through this big amount of informations we have here...
 
 
 ## Workflow
