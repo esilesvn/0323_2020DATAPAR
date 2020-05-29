@@ -11,7 +11,7 @@ Elise
 - [Links](#links)
 
 ## Project Description
-The original dataset was found on Kaggle ([Link here](https://www.kaggle.com/alxmamaev/flowers-recognition) of 4242 images of flowers from 5 different types : Tulip, Rose, Sunflower, Daisy, Dandelion. The goal of this project was to play around and experience Computer Vision with these pictures of different dimensions in order to gain knowledge on CNN and to perform a classification of Flowers pictures. We will prepare our data, build CNN, test different parameters and see how well we can predict a flower class based on just the pictures ! 
+The original dataset was found on Kaggle ([Link here](https://www.kaggle.com/alxmamaev/flowers-recognition)) of 4242 images of flowers from 5 different types : Tulip, Rose, Sunflower, Daisy, Dandelion. The goal of this project was to play around and experience Computer Vision with these pictures of different dimensions in order to gain knowledge on CNN and to perform a classification of Flowers pictures. We will prepare our data, build CNN, test different parameters and see how well we can predict a flower class based on just the pictures ! 
 
 
 ## Workflow
